@@ -4,12 +4,12 @@
 
 ### Baixar e Instalar
 
-Windows:
+**Windows**  
 https://git-scm.com/download/win
 
 _Instalar o gitbash, ajuda muito no desenvolvimento no windows ter um bash decente_
 
-Mac:
+**Mac**  
 https://git-scm.com/download/mac
 
 ### Criar conta no github
@@ -30,7 +30,7 @@ Para facilitar o controle das versões do Unity, iremos usar o Unity HUB.
 
 https://store.unity.com/download?ref=personal&_ga=2.110824589.920793428.1552409301-2076064889.1511476959
 
-### Unity
+### Versões
 
 No Unity HUB, baixar a versão do Unity 2018.3.
 Selecione para qual sistema vc quer poder buildar. Sugiro:
