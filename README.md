@@ -61,8 +61,8 @@ Após isso, vai ser necessário configurar o Unity para usar o VSCode:
 Para usar o VSCode com o Unity, tu precisa instalar alguns pacotes:
 
 #### Omnisharp
-Extension do VSCode que funciona para conseguir ler o projeto C#. MUST HAVE se for usar o VSCode para unity.
-* * No Mac, vai precisar instalar o Mono
+Extension do VSCode que funciona para conseguir ler o projeto C#. MUST HAVE se for usar o VSCode para unity.  
+_No Mac, vai precisar instalar o Mono_
 
 #### .NET 4.5
 
