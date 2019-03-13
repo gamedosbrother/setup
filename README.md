@@ -110,7 +110,8 @@ Infelizmente, nunca fiz essa parte no mac/linux, então não sei como funciona.
 
 É interessante instalar um Theme diferente, já que o do VSCode é meio blé.  
 Eu sugiro o **Cobalt Next**, que é o que eu uso.  
-Após instalar 
+Após instalar, aperte `ctrl+p` e digite `>Color theme`  
+Vai abrir uma lista de todos os seus temas, selecione o **Cobalt Next** ou qualquer outro que tu instalou.  
 
 Apertando `ctrl+,` tu abre as configurações do VSCode.  
 Altere as configurações de acordo com o que tu ache melhor.  
