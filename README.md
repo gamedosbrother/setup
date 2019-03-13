@@ -58,7 +58,7 @@ Após isso, vai ser necessário configurar o Unity para usar o VSCode:
 * Caso contrário, vai em Browse e procura o executavel
   * Normalmente, fica em C:\Users\USER\AppData\Local\Programs\Microsoft VS Code\Code.exe
 
-Além do VSCode, para usar com Unity, tu precisa instalar alguns pacotes:
+Para usar o VSCode com o Unity, tu precisa instalar alguns pacotes:
 
 #### Omnisharp
 Extension do VSCode que funciona para conseguir ler o projeto C#. MUST HAVE se for usar o VSCode para unity.
