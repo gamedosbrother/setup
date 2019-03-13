@@ -52,6 +52,12 @@ https://code.visualstudio.com/
 Após isso, vai ser necessário configurar o Unity para usar o VSCode:
 ![Configurar VSCode no Unity](https://raw.githubusercontent.com/gamedosbrother/setup/master/config_unity_vscode.png)
 
+* No Unity, entrar no Menu Edit/Preferences...
+* Selecionar a aba External Tools
+* Selecionar o Vistual Studio Code se estiver disponível
+* Caso contrário, vai em Browse e procura o executavel
+* * Normalmente, fica em C:\Users\USER\AppData\Local\Programs\Microsoft VS Code\Code.exe
+
 Além do VSCode, para usar com Unity, tu precisa instalar alguns pacotes:
 
 #### Omnisharp
