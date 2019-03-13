@@ -37,3 +37,43 @@ Selecione para qual sistema vc quer poder buildar. Sugiro:
 * Windows/Mac
 * WebGL
 
+## Optionals
+
+### VS Code
+
+Normalmente, o Unity instala o Visual Studio para programar.
+Eu não curto muito, é muito pesado e, para programar coisas fora de C#/Java, não curto muito IDEs.
+
+Eu uso o VSCode. Um editor de texto muito bom para programar e funciona muito bem com Unity.
+
+**Baixar**
+https://code.visualstudio.com/
+
+Após isso, vai ser necessário configurar o Unity para usar o VSCode:
+![Configurar VSCode no Unity](https://raw.githubusercontent.com/gamedosbrother/setup/master/config_unity_vscode.png)
+
+Além do VSCode, para usar com Unity, tu precisa instalar alguns pacotes:
+
+#### Omnisharp
+Extension do VSCode que funciona para conseguir ler o projeto C#. MUST HAVE se for usar o VSCode para unity.
+* * No Mac, vai precisar instalar o Mono
+
+#### .NET 4.5
+
+Também é necessario baixar o .net 4.5 para as versões mais novas do Unity.
+
+Nesse link:
+https://dotnet.microsoft.com/download/archives
+
+Baixa o .NET Framework 4.5.2 e instala.  
+
+Aqui vem uma pequena **gambiarra**.  
+O VSCode não vai conseguir achar o .NET 4.5, pq tu baixou o 4.5.2.  
+Para fazer funcionar você deve copiar a versão 4.5.2:  
+
+`C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2`  
+Para a pasta:  
+`C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.`  
+Dessa forma, o VSCode vai conseguir achar.  
+
+Infelizmente, nunca fiz essa parte no mac/linux, então não sei como funciona.
