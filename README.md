@@ -31,14 +31,14 @@ Crie um arquivo com seu nome e uma mensagem legal e divertida!
 Após isso, verifique se o git identificou o seu arquivo:  
 `$ git status`  
 
-Esse comando irá exibir todos os arquivos modificados/criados.
-Caso seu arquivo esteja lá, adicione ele nos arquivos a serem commitados:
+Esse comando irá exibir todos os arquivos modificados/criados.  
+Caso seu arquivo esteja lá, adicione ele nos arquivos a serem commitados:  
 `$ git add meunome.txt`  
 
-Agora commite o arquivo para salvar as alterações no versionamento:
+Agora commite o arquivo para salvar as alterações no versionamento:  
 `$ git commit -m "Testing my git!"`  
 
-Tente pushar para o remoto (github), salvando essas alterações na núvem:
+Tente pushar para o remoto (github), salvando essas alterações na núvem:  
 `$ git push origin master`  
 
 Esperamos que tudo de certo. Caso contrário, google it!  
