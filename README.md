@@ -76,8 +76,8 @@ Baixa o .NET Framework 4.5.2 e instala.
 Aqui vem uma pequena **gambiarra**.  
 O VSCode não vai conseguir achar o .NET 4.5, pq tu baixou o 4.5.2.  
 Para fazer funcionar você deve copiar a versão 4.5.2:  
-
 `C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2`  
+
 Para a pasta:  
 `C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.`  
 Dessa forma, o VSCode vai conseguir achar.  
