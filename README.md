@@ -26,6 +26,8 @@ https://help.github.com/en/enterprise/2.16/user/articles/generating-a-new-ssh-ke
 
 Para testar, tente clonar esse projeto:  
 `$ git clone git@github.com:gamedosbrother/setup.git`  
+Entre no diretório do projeto:  
+`$ cd setup`  
 
 Crie um arquivo com seu nome e uma mensagem legal e divertida!  
 Após isso, verifique se o git identificou o seu arquivo:  
