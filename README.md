@@ -86,7 +86,8 @@ _`ctrl+shift+x` para abrir o menu de extensões_
 
 #### Omnisharp
 No VSCode, procurar por **C# (powered by Omnisharp)**  
-Extension do VSCode que funciona para conseguir ler o projeto C#. MUST HAVE se for usar o VSCode para unity.  
+Essa extension serve para o VSCode conseguir ler o projeto C#.  
+MUST HAVE se for usar o VSCode para unity.  
 _No Mac, vai precisar instalar o Mono_
 
 #### .NET 4.5
